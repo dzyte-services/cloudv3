@@ -11300,3 +11300,78 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+
+
+.VIpgJd-ZVi9od-ORHb {
+  margin: 0;
+  background-color: #E4EFFB;
+  overflow: hidden;
+  display: none;
+}
+.VIpgJd-ZVi9od-ORHb-OEVmcd {
+    left: 0;
+    top: 0;
+    height: 39px;
+    width: 100%;
+    z-index: 10000001;
+    position: fixed;
+    border: none;
+    border-bottom: 1px solid #6B90DA;
+    margin: 0;
+    box-shadow: 0 0 8px 1px #999;
+    display: none;
+}
+.top-bar-section .dropdown {
+  padding: 0.8rem 0;
+  background-color: rgba(0,0,0,1);
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd, .VIpgJd-ZVi9od-l4eHX-hSRGPd:link, .VIpgJd-ZVi9od-l4eHX-hSRGPd:visited, .VIpgJd-ZVi9od-l4eHX-hSRGPd:hover, .VIpgJd-ZVi9od-l4eHX-hSRGPd:active {
+  font-size: 12px;
+  font-weight: bold;
+  color: #444;
+  text-decoration: none;
+  display: none;
+}
+.goog-logo-link {
+  display:none !important;
+} 
+  
+.goog-te-gadget{
+  color: transparent !important;
+}
+
+
+#google_translate_element {
+  /* background-color: #f0f0f0; */
+  /* padding: 0; */
+  border: 0;
+  border-radius: 18px;
+  /* width: 175px; */
+  margin-left: 20px;
+}
+
+/* Style the dropdown button */
+.goog-te-gadget-icon {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.goog-te-gadget .goog-te-combo {
+  /* margin: 4px 0; */
+  color: #079bd9;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 3px;
+}
+.recentcomments a {
+  display: inline !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+.border {
+  border: none !important;
+}
